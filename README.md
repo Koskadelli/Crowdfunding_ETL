@@ -9,4 +9,5 @@ This project is to practice building an Extract, Transform, and Load (ETL) pipel
 1) Pandas documentation: https://pandas.pydata.org/docs/
 2) QuickDBD Database Diagrams (for drawing our DB ERD), as well as exporting the schema from the ERD: https://app.quickdatabasediagrams.com/
 3) Python Abstract Syntax Trees (ast) Documentation - used instead of lambdas method for turning a string into a dictionary: https://docs.python.org/3/library/ast.html
-4) ChatGPT for select coding assistance. 
+4) ChatGPT for select coding assistance.
+   
